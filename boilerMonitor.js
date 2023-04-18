@@ -1,5 +1,7 @@
 /*
-
+    Name: Abraham Vallejos-Soto
+    Date: 4/16/2023
+    Assignment: Week Lab 6
 */
 
 // ---------- Login Information Script ----------
